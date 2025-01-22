@@ -170,6 +170,9 @@
         padding-top: 50px;
         
     }
+    .hero-section-banner img{
+        width: 100%;
+    }
 }
 
 /* Curriculum Section Styles */
@@ -448,6 +451,7 @@
     display: flex;
     gap: 10px;
 }
+
 /* Footer Mobile responsive styles */
 @media screen and (max-width: 576px) {
 .footer-container{
