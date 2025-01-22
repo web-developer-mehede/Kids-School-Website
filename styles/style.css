@@ -188,6 +188,10 @@
     padding: 60px 0;
     text-align: center;
 }
+marquee{
+    margin-bottom: 50px;
+    font-size: 25px;
+}
 .curriculum-cards-container{
     display: flex;
     gap: 20px;
@@ -248,7 +252,7 @@
 }
 /* Curriculum Section Mobile Responsive Styles */
 @media screen and (max-width: 576px) {
-    
+
     .curriculum-cards-container{
         display: flex;
         gap: 20px;
